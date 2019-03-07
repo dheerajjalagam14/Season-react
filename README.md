@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Season-react</h2> <br/>
+This project was bootstrapped with [Create React App]
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
